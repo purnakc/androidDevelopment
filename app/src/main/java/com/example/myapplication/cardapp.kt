@@ -237,5 +237,4 @@ fun SettingsCard() {
 @Preview
 @Composable
 fun PreviewScreen() {
-    CardAppScreen(innerPadding = PaddingValues(0.dp))
-}
+    CardAppScreen(innerPaddingValues = PaddingValues(0.dp))}
