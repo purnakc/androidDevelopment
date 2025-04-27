@@ -94,13 +94,13 @@ fun CardAppScreen(innerPaddingValues: PaddingValues) {
                 ) {
                     CategoryCard(
                         modifier = Modifier.weight(1f),
-                        icon = R.drawable.cr,
+                        icon = R.drawable.book,
                         title = "Text",
                         itemCount = "0 items sorted"
                     )
                     CategoryCard(
                         modifier = Modifier.weight(1f),
-                        icon = R.drawable.cr,
+                        icon = R.drawable.home,
                         title = "Address",
                         itemCount = "0 items sorted"
                     )
@@ -113,13 +113,13 @@ fun CardAppScreen(innerPaddingValues: PaddingValues) {
                 ) {
                     CategoryCard(
                         modifier = Modifier.weight(1f),
-                        icon = R.drawable.cr,
+                        icon = R.drawable.men,
                         title = "Character",
                         itemCount = "0 items sorted"
                     )
                     CategoryCard(
                         modifier = Modifier.weight(1f),
-                        icon = R.drawable.cr,
+                        icon = R.drawable.card,
                         title = "Bank card",
                         itemCount = "0 items sorted"
                     )
@@ -132,13 +132,13 @@ fun CardAppScreen(innerPaddingValues: PaddingValues) {
                 ) {
                     CategoryCard(
                         modifier = Modifier.weight(1f),
-                        icon = R.drawable.cr,
+                        icon = R.drawable.key,
                         title = "Password",
                         itemCount = "0 items sorted"
                     )
                     CategoryCard(
                         modifier = Modifier.weight(1f),
-                        icon = R.drawable.cr,
+                        icon = R.drawable.log,
                         title = "Logistics",
                         itemCount = "0 items sorted"
                     )
@@ -210,7 +210,7 @@ fun SettingsCard() {
             verticalAlignment = Alignment.CenterVertically
         ) {
             Image(
-                painter = painterResource(id = R.drawable.cr),
+                painter = painterResource(id = R.drawable.set),
                 contentDescription = "Settings",
                 modifier = Modifier.size(24.dp)
             )
