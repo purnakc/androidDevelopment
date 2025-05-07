@@ -19,5 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "My Application"
 include(":app")
+=======
+rootProject.name = "classApp"
+include(":app")
+ 
+>>>>>>> 28a19b5 (register task done)

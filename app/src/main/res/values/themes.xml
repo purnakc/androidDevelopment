@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.ClassApp" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 28a19b5 (register task done)
 </resources>

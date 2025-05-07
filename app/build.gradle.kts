@@ -5,11 +5,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.myapplication"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.myapplication"
+=======
+    namespace = "com.example.classapp"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.classapp"
+>>>>>>> 28a19b5 (register task done)
         minSdk = 27
         targetSdk = 35
         versionCode = 1

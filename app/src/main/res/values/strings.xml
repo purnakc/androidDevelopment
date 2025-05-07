@@ -1,6 +1,12 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">My Application</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_card">card</string>
     <string name="title_activity_cardapp">cardapp</string>
+=======
+    <string name="app_name">classApp</string>
+    <string name="title_activity_login">loginActivity</string>
+    <string name="title_activity_register">Register</string>
+>>>>>>> 28a19b5 (register task done)
 </resources>
